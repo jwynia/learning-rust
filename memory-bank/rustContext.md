@@ -35,6 +35,10 @@
 - Cargo documentation
 - Rustdoc documentation
 
+### Local Documentation
+- The Rust Programming Language Book: Full offline copy available in docs/rust-programming-language-book/
+- The Cargo Book: Full offline copy available in docs/cargo-book/
+
 ## Testing Strategy
 - Unit testing approach
 - Integration testing approach

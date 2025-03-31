@@ -27,7 +27,7 @@
   - Prerequisites: [concepts or skills needed]
   - Features planned: [list]
   - Expected challenges: [list]
-  - Resources needed: [list]
+  - Resources needed: Offline copies of The Rust Programming Language Book and The Cargo Book, [other resources]
 
 ## Project Ideas
 - [Brief project idea descriptions]

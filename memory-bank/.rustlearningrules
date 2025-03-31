@@ -35,7 +35,7 @@ This document captures patterns, preferences, and strategies that work best for 
 ## Environment Preferences
 - Editor: [preferred editor/IDE]
 - Tools I use regularly: [tools]
-- Documentation approach: [how I prefer to access/use docs]
+- Documentation approach: Offline documentation available in docs folder (Rust Programming Language Book and Cargo Book)
 - Testing strategy: [how I approach testing]
 
 ## Progress Tracking

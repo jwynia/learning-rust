@@ -4,6 +4,7 @@
 - [Start date]: Began Rust learning journey
 - [Date]: [Milestone achieved]
 - [Date]: [Milestone achieved]
+- 3/31/2025: Added offline copies of The Rust Programming Language Book and The Cargo Book to the docs folder for reference
 - [Current date]: Current status
 
 ## Skills Assessment

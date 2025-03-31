@@ -34,9 +34,9 @@
 - Project 3: [Description of advanced project]
 
 ## Learning Resources
-- Primary: The Rust Programming Language book
+- Primary: The Rust Programming Language book (offline copy available in docs/rust-programming-language-book/)
 - Secondary: Rust By Example
-- Reference: [Other books, courses, or websites I plan to use]
+- Reference: The Cargo Book (offline copy available in docs/cargo-book/), [Other books, courses, or websites I plan to use]
 - Community: [Forums, Discord servers, or local meetups I'll participate in]
 
 ## Challenges & Mitigation

@@ -15,7 +15,7 @@
 - [Concept 1] - [estimated completion date]
   - Current understanding: [description]
   - Challenges: [list]
-  - Resources being used: [list]
+  - Resources being used: Offline copies of The Rust Programming Language Book and The Cargo Book, [other resources]
   
 - [Concept 2] - [estimated completion date]
   - Current understanding: [description]

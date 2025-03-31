@@ -6,6 +6,7 @@
 - Resources: [What resources you're currently using]
 
 ## Recent Progress
+- Added offline copies of The Rust Programming Language Book and The Cargo Book to the docs folder for reference (3/31/2025)
 - Completed [concept/chapter/exercise] on [date]
 - Successfully implemented [feature/pattern]
 - Resolved [number] errors related to [topic]
