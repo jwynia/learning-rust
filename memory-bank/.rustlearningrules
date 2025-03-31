@@ -1,0 +1,55 @@
+# Rust Learning Rules
+
+This document captures patterns, preferences, and strategies that work best for my personal Rust learning journey.
+
+## Learning Preferences
+- I learn best through: [hands-on projects / reading theory first / visual examples / etc.]
+- My optimal learning session length is: [time period]
+- I retain information better when: [pattern noticed]
+- I prefer explanations that are: [concise / detailed / metaphor-based / etc.]
+
+## Concept Comprehension
+- Concepts I grasp quickly: [list concepts]
+- Concepts I find challenging: [list concepts]
+- I understand ownership better when: [specific approach]
+- Error messages make more sense to me when: [pattern]
+
+## Effective Teaching Approaches
+- For syntax: [what works]
+- For ownership: [what works]
+- For traits: [what works]
+- For lifetimes: [what works]
+- When I'm stuck: [how to best help]
+
+## Common Mistakes
+- I often forget to: [common mistake]
+- I tend to misunderstand: [concept]
+- Pattern: When I see error [X], it's usually because I'm [doing Y]
+
+## Project Work
+- Project complexity sweet spot: [complexity level]
+- I work best when projects are: [characteristic]
+- Feature implementation approach: [pattern]
+- I debug most effectively by: [approach]
+
+## Environment Preferences
+- Editor: [preferred editor/IDE]
+- Tools I use regularly: [tools]
+- Documentation approach: [how I prefer to access/use docs]
+- Testing strategy: [how I approach testing]
+
+## Progress Tracking
+- I like to measure progress by: [method]
+- Skill check frequency: [how often to assess skills]
+- Project completion definition: [what constitutes "done"]
+
+## Communication Preferences
+- I prefer explanations that: [characteristic]
+- Code examples should be: [characteristic]
+- When introducing new concepts: [approach]
+- Feedback style that works best: [approach]
+
+## Motivation Factors
+- What keeps me engaged: [factors]
+- Signs I'm losing interest: [patterns]
+- How to rekindle motivation: [approaches]
