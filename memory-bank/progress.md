@@ -5,7 +5,8 @@
 - [Date]: [Milestone achieved]
 - [Date]: [Milestone achieved]
 - 3/31/2025: Added offline copies of The Rust Programming Language Book and The Cargo Book to the docs folder for reference
-- [Current date]: Current status
+- 3/31/2025: Created structured experiments folder with categories for different application types
+- 3/31/2025: Current status
 
 ## Skills Assessment
 ### Strong Areas
@@ -39,10 +40,13 @@
 - Concept application: [progression]
 
 ## Next Learning Phase
-- Focus: [primary focus]
-- Timeline: [estimated dates]
-- Goals: [specific goals]
-- Success criteria: [how you'll measure success]
+- Focus: CLI Applications
+- Timeline: Begin immediately
+- Goals: 
+  - Set up Rust development environment
+  - Complete first basic CLI application
+  - Learn Rust fundamentals through practical application
+- Success criteria: Functional CLI application demonstrating basic Rust concepts
 
 ## Rust Community Engagement
 - Contributions: [any open source contributions]
